@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorTranspose", "ErrorTranspose.csproj", "{6C8C627A-AD11-4D4F-B1D1-1D43F6262CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8C627A-AD11-4D4F-B1D1-1D43F6262CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8C627A-AD11-4D4F-B1D1-1D43F6262CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8C627A-AD11-4D4F-B1D1-1D43F6262CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8C627A-AD11-4D4F-B1D1-1D43F6262CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5B46AFB-5865-4BDB-831E-5D69564D3CCD}
+	EndGlobalSection
+EndGlobal
